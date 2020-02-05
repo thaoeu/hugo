@@ -1,0 +1,13 @@
+baseURL = "https://thaoeu.site/"
+languageCode = "cn"
+title = "ThAoeu"
+theme = "maupassant"
+
+[author]
+	name = "thaoeu"
+
+[params]
+	author = "thaoeu"
+	subtitle = "Power by hugo"
+	keywords = "vim go"
+	description = "leader"
