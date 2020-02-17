@@ -1,13 +1,24 @@
 baseURL = "https://thaoeu.site/"
-languageCode = "cn"
+languageCode = "zh-cn"
 title = "ThAoeu"
-theme = "maupassant"
+theme = "pass"
+hasCJKLanguage = true #中日韩语支持
+summaryLength = 89	#摘要字数
 
 [author]
-	name = "thaoeu"
+	name = "标杆杆"
+	homepage = "https://thaoeu.site"
 
 [params]
-	author = "thaoeu"
-	subtitle = "Power by hugo"
+	author = "标杆杆"
+	subtitle = "With great power comes great responsibility."
 	keywords = "vim go"
-	description = "leader"
+	toc = true
+	registerInfo = "黑ICP备19007841号-2"
+
+
+[markup]
+	[markup.highlight]
+	lineNos = true
+	style = "github"
+

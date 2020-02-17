@@ -1,6 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }}<(_ _)>"
 date: {{ .Date }}
-draft: true
+TableOfContents: true
+gitment: true
+tags: [<(_ _)>]
+draft: flase
 ---
 
