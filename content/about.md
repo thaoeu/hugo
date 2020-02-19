@@ -5,6 +5,6 @@ type: "about"
 type: standalone
 ---
 
-![](img/fj.jpg)
+![](https://thaoeu.site/img/fj.jpg)
 
 [MyGithub](https://github.com/thaoeu)
