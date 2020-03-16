@@ -1,17 +1,17 @@
 ---
 title: HappyNewYear
 date: 2020-01-01 08:18:26
-tags:
+tags: [other]
 ---
-# 新年快乐!生日快乐！
+# 新年快乐！生日快乐！
 ## 第一篇文章
-`刚开始用，还不大会用Markdown` 
+`刚开始用，还不大会用 Markdown`
 --------
-原计划是在一九年最后一天，也就是昨天上线的，结果由于脑子不在线导致没办法上线。 
+原计划是在一九年最后一天，也就是昨天上线的，结果由于脑子不在线导致没办法上线。
 # 二零一九年度总结
 ## 技术方面
 ### Vim
-经过一大段深坑浅坑的试探，终于确定了现在使用的Vim配置，中途出了不少小问题，尝试SpaceVim那次更是损失惨重，昨天完全删除了SpaceVim，不能说是不好，只能说是不适合我，下面贴个Vimrc展示下。
+经过一大段深坑浅坑的试探，终于确定了现在使用的 Vim 配置，中途出了不少小问题，尝试 SpaceVim 那次更是损失惨重，昨天完全删除了 SpaceVim，不能说是不好，只能说是不适合我，下面贴个 Vimrc 展示下。
 ```let mapleader = ","
 set nu
 set autoindent
@@ -53,27 +53,27 @@ autocmd Filetype markdown inoremap ,0 #<Space><Enter><(_ _)><Esc>kA
 autocmd Filetype markdown inoremap ,9 ##<Space><Enter><(_ _)><Esc>kA
 autocmd Filetype markdown inoremap ,8 ###<Space><Enter><(_ _)><Esc>kA
 autocmd Filetype markdown inoremap ,7 ####<Space><Enter><(_ _)><Esc>kA
-autocmd Filetype markdown inoremap ,l --------<Enter>``` 
+autocmd Filetype markdown inoremap ,l --------<Enter>```
 ```
-使用了Neovim应该不叫Vimrc了，但还是改不了习惯。
+使用了 Neovim 应该不叫 Vimrc 了，但还是改不了习惯。
 --------
 
 ### OS
-各个操作系统的配置基本也摸清定型，以后要做的就是小打小闹，老了~不想搞太多花里胡哨的东西。 
-目前使用的是Win10Ltsc+Manjaro双系统，移动设备还是万年不变的Miui+IpadOS，看了别人搞 的单片机项目心水，打算趁年假期间完善下这方面的技术。
+各个操作系统的配置基本也摸清定型，以后要做的就是小打小闹，老了~不想搞太多花里胡哨的东西。
+目前使用的是 Win10Ltsc+Manjaro 双系统，移动设备还是万年不变的 Miui+IpadOS，看了别人搞 的单片机项目心水，打算趁年假期间完善下这方面的技术。
 --------
 
 ### 键盘
-这一年里搞的最多的就是键盘了，从客制化到量产，再从量产回归客制化，最后用Ydkb的配置完成养老需求，也算是完满了，目前主力Just60+Bggpad，Bggpad的双旋钮加Oled屏幕特性还是尝试，Qmk虽然文档完善，但奈何我是个四级都没过的渣渣，~~这Markdown中英文切换是真的恶心，有时间得考虑下英文写作~~
+这一年里搞的最多的就是键盘了，从客制化到量产，再从量产回归客制化，最后用 Ydkb 的配置完成养老需求，也算是完满了，目前主力 Just60+Bggpad，Bggpad 的双旋钮加 Oled 屏幕特性还是尝试，Qmk 虽然文档完善，但奈何我是个四级都没过的渣渣，~~这 Markdown 中英文切换是真的恶心，有时间得考虑下英文写作~~
 --------
 
 ### 其他外设
 这块毫无进展，从耳机坑里跳出来了，以后任它玄学吹上天，我自一毛不拔！
-年中听说G502出了无线版，本想换但考虑到换掉了重滚轮，重心变化太大最后不了了之。~~才不是因为没钱~~ 
+年中听说 G502 出了无线版，本想换但考虑到换掉了重滚轮，重心变化太大最后不了了之。~~才不是因为没钱~~
 ### 好像这个标题下技术方面来着
-我在写些什么鬼东西~~算了不管了，破罐破摔~~ 
+我在写些什么鬼东西~~算了不管了，破罐破摔~~
 ### 桌面环境
-Linux下被I3wm圈粉，现在使用体验舒适，基本实现预期目标，Windows下打算搞出类似操作，本以为bug.n可以作为替代，但不精于AutoHotKey，无奈作罢。
+Linux 下被 I3wm 圈粉，现在使用体验舒适，基本实现预期目标，Windows 下打算搞出类似操作，本以为 bug.n 可以作为替代，但不精于 AutoHotKey，无奈作罢。
 --------
 
 ### 身体
