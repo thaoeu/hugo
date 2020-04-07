@@ -15,7 +15,7 @@ Htop 是一款开源的交互式进程管理器，很多 Linux 发行版都内�
 yay -S htop-vim-git
 ```
 
-htop-vim-git 完美的解决了 Htop 下移动选择进程的问题，但它也占用了诸如：k, l 的一系列按键。
+htop-vim-git 完美地解决了 Htop 下移动选择进程的问题，但它也占用了诸如：k, l 的一系列按键。
 如果你有方向键，或者你能接受 Alt+hjkl 的移动方式，那我建议你使用原版的 Htop.
 
 这里顺带介绍下 Htop 的一些快捷键。

@@ -1,6 +1,6 @@
 baseURL = "https://thaoeu.site/"
 languageCode = "zh-cn"
-title = "ThAoeu"
+title = "我的网页测试搭建"
 theme = "pass"
 hasCJKLanguage = true #中日韩语支持
 summaryLength = 89	#摘要字数

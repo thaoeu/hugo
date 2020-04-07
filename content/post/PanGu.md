@@ -18,7 +18,7 @@ draft: flase
 
 可以看到 PanGu 插件会在我保存文档后自动格式化的文档，目前支持 Markdown, txt, wiki, cnx. 等纯文本格式文档。
 
-具体可以去 GitHub 上的文档详细的命令用法。
+具体可以去看 GitHub 上的文档。
 
 
 

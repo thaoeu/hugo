@@ -8,14 +8,14 @@ tags: [linux]
 使用 wifi-menu 命令选择 wifi 输入密码。
 
 这里使用的是 netctl.
-##### 一、安装必须管理工具
+##### 一、安装必需管理工具
 
 
 ```
 pacman -S dialog netctl
 ```
 
-##### 二、查看 /etc/netctl/ 下文件
+##### 二、查看 /etc/netctl/ 文件
 
 该目录下会有 wifi-menu 留下的配对文件。root 账户可查看文件内容，包含网卡名、ssid、密码等。
 
