@@ -112,7 +112,7 @@ sudo make clean install
 
 
 Ranger 支持相当多的可选依赖，如果你像我一样使用 pacman 作包管理器，只要在终端执行
-```
+``` shell
 pacman -Qi ranger
 ```
 

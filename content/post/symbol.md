@@ -6,7 +6,9 @@ gitment: true
 tags: [other]
 draft: flase
 ---
-
+测试了下在 dmenu 下看着还可以的字符
+字体：Source Code Pro
+字号：10
 ◂ ▾ ▴ ▸
 ◄ ▼ ▲ ►
 ◢ ◣ ◤ ◥
