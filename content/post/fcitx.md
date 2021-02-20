@@ -20,6 +20,13 @@ draft: flase
 `pacman -S fcitx fcitx-configtool fcitx-im fcitx-rime`
 
 --------
+
+# Fcitx
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS="@im=fcitx"
+
+--------
 前往[小鹤网盘](flypy.ys168.com) 下载码表
 
 位于网盘：小鹤音形挂接第三方目录下：Rime 平台鼠须管 for macOS.zip

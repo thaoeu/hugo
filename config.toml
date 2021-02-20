@@ -1,21 +1,39 @@
-baseURL = "https://thaoeu.site/"
+baseURL = "https://blog.lrrc.cc/"
 languageCode = "zh-cn"
-title = "我的网页测试搭建"
-theme = "pass"
+title = "标杆杆栈"
+theme = "fkqy"
 hasCJKLanguage = true #中日韩语支持
-summaryLength = 89	#摘要字数
+summaryLength = 63	#摘要字数
 
 [author]
 	name = "标杆杆"
-	homepage = "https://thaoeu.site"
+	homepage = "blog.lrrc.cc"
 
 [params]
 	author = "标杆杆"
-	subtitle = "With great power comes great responsibility."
-	keywords = "vim go"
+	subtitle = "一个人的疯言疯语。"
+	keywords = "这里没有技术，只有情绪。"
 	toc = true
-	registerInfo = "黑ICP备19007841号-2"
 
+[menu]
+
+  [[menu.main]]
+    identifier = "books"
+    name = "新书"
+    url = "/books/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 4
 
 [markup]
 	[markup.highlight]
