@@ -17,17 +17,17 @@ summaryLength = 63	#摘要字数
 
 [menu]
 
-#  [[menu.main]]
-#    identifier = "books"
-#    name = "新书"
-#    url = "/books/"
-#    weight = 2
-#
-#  [[menu.main]]
-#    identifier = "archives"
-#    name = "归档"
-#    url = "/archives/"
-#    weight = 3
+  [[menu.main]]
+    identifier = "books"
+    name = "新书"
+    url = "/books/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 3
 
   [[menu.main]]
     identifier = "about"

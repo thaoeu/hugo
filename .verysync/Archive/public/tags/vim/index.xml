@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vim on 标杆杆栈</title>
+    <link>https://blog.lrrc.cc/tags/vim/</link>
+    <description>Recent content in vim on 标杆杆栈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Feb 2020 15:25:48 +0800</lastBuildDate><atom:link href="https://blog.lrrc.cc/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vimer 是如何使用 Htop 的</title>
+      <link>https://blog.lrrc.cc/post/htop/</link>
+      <pubDate>Sat, 22 Feb 2020 15:25:48 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/htop/</guid>
+      <description>Htop 是一款开源的交互式进程管理器，很多 Linux 发行版都内置了它。 但默认的 Htop 是使用方向键进行进程的选择，我这种没有方向键的用户就不便使用</description>
+    </item>
+    
+    <item>
+      <title>说说中文 Markdown 文案，以及一款为此而生的 Vim 插件</title>
+      <link>https://blog.lrrc.cc/post/pangu/</link>
+      <pubDate>Sun, 16 Feb 2020 19:22:20 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/pangu/</guid>
+      <description>今天在 GitHub 上发现一个有趣的项目－中文文案排版指北 文中的很多观点使我受益匪浅，但又怕自己一时没法适应，所以找来了这款 Vim 插件－盘古之</description>
+    </item>
+    
+  </channel>
+</rss>

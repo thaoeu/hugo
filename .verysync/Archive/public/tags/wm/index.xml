@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wm on 标杆杆栈</title>
+    <link>https://blog.lrrc.cc/tags/wm/</link>
+    <description>Recent content in wm on 标杆杆栈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Feb 2020 11:05:35 +0800</lastBuildDate><atom:link href="https://blog.lrrc.cc/tags/wm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dwm 短期使用总结</title>
+      <link>https://blog.lrrc.cc/post/dwm/</link>
+      <pubDate>Mon, 17 Feb 2020 11:05:35 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/dwm/</guid>
+      <description>使用 Dwm 也有一段时间了，今天抽空来总结下使用 Dwm 的一些心得。 Dwm 的安装 Dwm 的使用 Dwm 补丁 Dwm 状态栏 Dwm 按键定义 MyDwm #&amp;gt;#</description>
+    </item>
+    
+  </channel>
+</rss>

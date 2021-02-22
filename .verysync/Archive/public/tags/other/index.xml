@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other on 标杆杆栈</title>
+    <link>https://blog.lrrc.cc/tags/other/</link>
+    <description>Recent content in other on 标杆杆栈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Feb 2020 19:29:23 +0800</lastBuildDate><atom:link href="https://blog.lrrc.cc/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>浏览器推荐－vivaldi</title>
+      <link>https://blog.lrrc.cc/post/vivaldi/</link>
+      <pubDate>Fri, 28 Feb 2020 19:29:23 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/vivaldi/</guid>
+      <description>今儿偷个懒，直接把知乎链接贴这儿了！ 知乎</description>
+    </item>
+    
+    <item>
+      <title>终端字符</title>
+      <link>https://blog.lrrc.cc/post/symbol/</link>
+      <pubDate>Sat, 22 Feb 2020 20:28:57 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/symbol/</guid>
+      <description>测试了下在 dmenu 下看着还可以的字符 字体：Source Code Pro 字号：10 ◂ ▾ ▴ ▸ ◄ ▼ ▲ ► ◢ ◣ ◤ ◥ ◩ ◪ ◭ ◮ ⌛               </description>
+    </item>
+    
+    <item>
+      <title>Msg</title>
+      <link>https://blog.lrrc.cc/post/msg/</link>
+      <pubDate>Mon, 10 Feb 2020 20:48:23 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/msg/</guid>
+      <description>刚刚用一个新号打开 b 站，首页看到一个关于电魂的推送，看完了，回想起前些年和电魂的交集，我没有见证电魂衰落的全部过程，也不是梦三</description>
+    </item>
+    
+    <item>
+      <title>HappyNewYear</title>
+      <link>https://blog.lrrc.cc/post/happynewyear/</link>
+      <pubDate>Wed, 01 Jan 2020 08:18:26 +0000</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/happynewyear/</guid>
+      <description>新年快乐！生日快乐！ 第一篇文章 刚开始用，还不大会用 Markdown 原计划是在一九年最后一天，也就是昨天上线的，结果由于脑子不在线导致没办法上</description>
+    </item>
+    
+  </channel>
+</rss>

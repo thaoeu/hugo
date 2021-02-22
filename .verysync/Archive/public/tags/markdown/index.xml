@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on 标杆杆栈</title>
+    <link>https://blog.lrrc.cc/tags/markdown/</link>
+    <description>Recent content in markdown on 标杆杆栈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 17 Feb 2020 21:50:15 +0800</lastBuildDate><atom:link href="https://blog.lrrc.cc/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown 格式预览</title>
+      <link>https://blog.lrrc.cc/post/markdown/</link>
+      <pubDate>Mon, 17 Feb 2020 21:50:15 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/markdown/</guid>
+      <description>标题 1 标题 2 标题 3 标题 4 标题 5 标题 6 对应语法及热键 vimscript # &amp;lt;leader&amp;gt;9 ## &amp;lt;leader&amp;gt;8 ### &amp;lt;leader&amp;gt;7 #### &amp;lt;leader&amp;gt;6 ##### &amp;lt;leader&amp;gt;5 ###### &amp;lt;leader&amp;gt;4 加粗、斜体、删除线 加粗 斜体 删除线 对应语法及热键 vimscript ****</description>
+    </item>
+    
+  </channel>
+</rss>

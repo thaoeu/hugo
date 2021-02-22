@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 标杆杆栈</title>
+    <link>https://blog.lrrc.cc/post/</link>
+    <description>Recent content in Posts on 标杆杆栈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 21 Feb 2021 18:28:46 +0800</lastBuildDate><atom:link href="https://blog.lrrc.cc/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>备案那点事</title>
+      <link>https://blog.lrrc.cc/post/beian/</link>
+      <pubDate>Sun, 21 Feb 2021 18:28:46 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/beian/</guid>
+      <description>域名被查 国内备案审查速度是真的快，一天之内，几个域名无一幸免。 不知道为什么国内对建站如此严格，家用不开放 80 端口就算了，我曾进行</description>
+    </item>
+    
+    <item>
+      <title>我是如何自定义码表的</title>
+      <link>https://blog.lrrc.cc/post/q10.fcitx/</link>
+      <pubDate>Sat, 20 Feb 2021 10:20:43 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/q10.fcitx/</guid>
+      <description>源于小鹤音形 几年前开始尝试小鹤双拼，是被其节奏感 所吸引，两码一字一声一韵，让我觉得字 本就该这么打。 后来在它的官网发现了形码，想</description>
+    </item>
+    
+    <item>
+      <title>这里是标杆杆副站</title>
+      <link>https://blog.lrrc.cc/post/q10-10/</link>
+      <pubDate>Sat, 20 Feb 2021 10:10:21 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/q10-10/</guid>
+      <description>这里没有备案 所以这里不会有那么多条条框框 不会因为我加了搜索框而被勒令整改； 也不会因为文章中出现了博客 字样而被警告。</description>
+    </item>
+    
+    <item>
+      <title>Linux Fcitx 挂载小鹤音形</title>
+      <link>https://blog.lrrc.cc/post/fcitx/</link>
+      <pubDate>Sat, 30 May 2020 15:46:04 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/fcitx/</guid>
+      <description>网上说码表挂接几乎是最简单的 Linux 任务&amp;lt;(_ _)&amp;gt; 然而我每次安装都磕磕绊绊 这次特意翻看了下 Fcitx-rime 文档，才发现一直以来我都在走弯路 码表</description>
+    </item>
+    
+    <item>
+      <title>Kdeconnect 在 Windows 运行问题</title>
+      <link>https://blog.lrrc.cc/post/kdeconnect/</link>
+      <pubDate>Mon, 11 May 2020 07:28:12 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/kdeconnect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pkg</title>
+      <link>https://blog.lrrc.cc/post/pkg/</link>
+      <pubDate>Thu, 26 Mar 2020 19:54:38 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/pkg/</guid>
+      <description>pkg search &amp;lt;query&amp;gt; 搜索包 pkg install &amp;lt;package&amp;gt; 安装包 pkg uninstall &amp;lt;package&amp;gt; 卸载包 pkg reinstall &amp;lt;package&amp;gt; 重新安装包 pkg update 更新源 pkg upgrade 升级软件包 pkg list-all 列出可供安装的所有包 pkg list-installed 列出已经安装的包 pkg shoe &amp;lt;package&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>浏览器推荐－vivaldi</title>
+      <link>https://blog.lrrc.cc/post/vivaldi/</link>
+      <pubDate>Fri, 28 Feb 2020 19:29:23 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/vivaldi/</guid>
+      <description>今儿偷个懒，直接把知乎链接贴这儿了！ 知乎</description>
+    </item>
+    
+    <item>
+      <title>记录一次失败的尝试－崩坏 3 安装</title>
+      <link>https://blog.lrrc.cc/post/honkaiimpact3rd/</link>
+      <pubDate>Thu, 27 Feb 2020 19:04:54 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/honkaiimpact3rd/</guid>
+      <description>自从全线转 Linux 后，已经很久没有用 Pc 玩过游戏了。 只能偶尔玩下手游解解馋，但奈何手机屏幕小、性能也差，就打起了安装崩坏 3 客户端的主义</description>
+    </item>
+    
+    <item>
+      <title>终端字符</title>
+      <link>https://blog.lrrc.cc/post/symbol/</link>
+      <pubDate>Sat, 22 Feb 2020 20:28:57 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/symbol/</guid>
+      <description>测试了下在 dmenu 下看着还可以的字符 字体：Source Code Pro 字号：10 ◂ ▾ ▴ ▸ ◄ ▼ ▲ ► ◢ ◣ ◤ ◥ ◩ ◪ ◭ ◮ ⌛               </description>
+    </item>
+    
+    <item>
+      <title>Vimer 是如何使用 Htop 的</title>
+      <link>https://blog.lrrc.cc/post/htop/</link>
+      <pubDate>Sat, 22 Feb 2020 15:25:48 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/htop/</guid>
+      <description>Htop 是一款开源的交互式进程管理器，很多 Linux 发行版都内置了它。 但默认的 Htop 是使用方向键进行进程的选择，我这种没有方向键的用户就不便使用</description>
+    </item>
+    
+    <item>
+      <title>Hugo 使用汇总</title>
+      <link>https://blog.lrrc.cc/post/hugo/</link>
+      <pubDate>Tue, 18 Feb 2020 21:01:40 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/hugo/</guid>
+      <description>使用 hugo 搭建博客也有一段时间了，现在总体还算方便，记录下安装过程以备重装。毕竟学生机一年一换。</description>
+    </item>
+    
+    <item>
+      <title>关于 Patch 补丁</title>
+      <link>https://blog.lrrc.cc/post/patch/</link>
+      <pubDate>Tue, 18 Feb 2020 16:00:37 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/patch/</guid>
+      <description>Patch 是 Unix 上的应用程序，用于更新文本文件，一般为.diff 文件，要使用 patch 或者说打一个补丁，只要在终端执行： shell patch &amp;lt; example.diff</description>
+    </item>
+    
+    <item>
+      <title>Zsh</title>
+      <link>https://blog.lrrc.cc/post/zsh/</link>
+      <pubDate>Mon, 17 Feb 2020 22:52:43 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/zsh/</guid>
+      <description> thththhththththetheteh thethtehehethutehu ** `ththhhht` thethethethethethtehteh *thtehtehtehth* hthththth </description>
+    </item>
+    
+    <item>
+      <title>Markdown 格式预览</title>
+      <link>https://blog.lrrc.cc/post/markdown/</link>
+      <pubDate>Mon, 17 Feb 2020 21:50:15 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/markdown/</guid>
+      <description>标题 1 标题 2 标题 3 标题 4 标题 5 标题 6 对应语法及热键 vimscript # &amp;lt;leader&amp;gt;9 ## &amp;lt;leader&amp;gt;8 ### &amp;lt;leader&amp;gt;7 #### &amp;lt;leader&amp;gt;6 ##### &amp;lt;leader&amp;gt;5 ###### &amp;lt;leader&amp;gt;4 加粗、斜体、删除线 加粗 斜体 删除线 对应语法及热键 vimscript ****</description>
+    </item>
+    
+    <item>
+      <title>Dwm 短期使用总结</title>
+      <link>https://blog.lrrc.cc/post/dwm/</link>
+      <pubDate>Mon, 17 Feb 2020 11:05:35 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/dwm/</guid>
+      <description>使用 Dwm 也有一段时间了，今天抽空来总结下使用 Dwm 的一些心得。 Dwm 的安装 Dwm 的使用 Dwm 补丁 Dwm 状态栏 Dwm 按键定义 MyDwm #&amp;gt;#</description>
+    </item>
+    
+    <item>
+      <title>说说中文 Markdown 文案，以及一款为此而生的 Vim 插件</title>
+      <link>https://blog.lrrc.cc/post/pangu/</link>
+      <pubDate>Sun, 16 Feb 2020 19:22:20 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/pangu/</guid>
+      <description>今天在 GitHub 上发现一个有趣的项目－中文文案排版指北 文中的很多观点使我受益匪浅，但又怕自己一时没法适应，所以找来了这款 Vim 插件－盘古之</description>
+    </item>
+    
+    <item>
+      <title>Ranger 使用</title>
+      <link>https://blog.lrrc.cc/post/ranger/</link>
+      <pubDate>Fri, 14 Feb 2020 09:22:51 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/ranger/</guid>
+      <description>Ranger 特性 Ranger 是一个终端下的文件管理器，提供了一个类 Vim 的操作环境。 Ranger 的项目代码 查看 ranger 可选依赖 pacman -Qi ranger pacman -Qi ranger 如使用 Aur `yay -Qi ranger` 确认安装 w3m 或 python-ueberzug</description>
+    </item>
+    
+    <item>
+      <title>Keynav- 鼠标控制程序推荐</title>
+      <link>https://blog.lrrc.cc/post/keynav/</link>
+      <pubDate>Thu, 13 Feb 2020 10:15:32 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/keynav/</guid>
+      <description>Keynav- 鼠标控制程序推荐 Control the mouse with the keyboard. 假期回家没带鼠标 ，没想到是一个如此漫长的假期，虽说我一直希望摆脱鼠标，但完全没有也不是办法， aoeu &amp;lt;(_</description>
+    </item>
+    
+    <item>
+      <title>Msg</title>
+      <link>https://blog.lrrc.cc/post/msg/</link>
+      <pubDate>Mon, 10 Feb 2020 20:48:23 +0800</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/msg/</guid>
+      <description>刚刚用一个新号打开 b 站，首页看到一个关于电魂的推送，看完了，回想起前些年和电魂的交集，我没有见证电魂衰落的全部过程，也不是梦三</description>
+    </item>
+    
+    <item>
+      <title>Archlinux 开机自动连接 wifi</title>
+      <link>https://blog.lrrc.cc/post/archlinuxs%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5wifi/</link>
+      <pubDate>Sun, 02 Feb 2020 08:18:26 +0000</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/archlinuxs%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5wifi/</guid>
+      <description>使用 wifi-menu 命令选择 wifi 输入密码。 这里使用的是 netctl. 一、安装必需管理工具 pacman -S dialog netctl 二、查看 /etc/netctl/ 文件 该目录下会有 wifi-menu 留下的配对文件。root 账户可</description>
+    </item>
+    
+    <item>
+      <title>github 免密上传</title>
+      <link>https://blog.lrrc.cc/post/github%E5%85%8D%E5%AF%86%E4%B8%8A%E4%BC%A0/</link>
+      <pubDate>Sat, 01 Feb 2020 08:18:26 +0000</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/github%E5%85%8D%E5%AF%86%E4%B8%8A%E4%BC%A0/</guid>
+      <description>github 免密上传 首先确定 ssh 公钥已上传到 github 设置 Git 邮箱、用户名 git config --global user.email &amp;quot;example@mail.com&amp;quot; git config --global user.name &amp;quot;example&amp;quot; 使 Git Push 时记住密码 git config --global credential.helper store git config --global push.default simple 参考地址 vampire&amp;rsquo;s blood</description>
+    </item>
+    
+    <item>
+      <title>Windows、Linux 双系统蓝牙连接</title>
+      <link>https://blog.lrrc.cc/post/windowslinux%E5%8F%8C%E7%B3%BB%E7%BB%9F%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5/</link>
+      <pubDate>Wed, 01 Jan 2020 09:06:12 +0000</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/windowslinux%E5%8F%8C%E7%B3%BB%E7%BB%9F%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5/</guid>
+      <description>一般笔记本安装实体 Linux 双系统后，切换系统后蓝牙设备总有这样那样的问题，这里将使用修改 key 值的方法实现双系统连接蓝牙设备。 Windows 下连接设</description>
+    </item>
+    
+    <item>
+      <title>HappyNewYear</title>
+      <link>https://blog.lrrc.cc/post/happynewyear/</link>
+      <pubDate>Wed, 01 Jan 2020 08:18:26 +0000</pubDate>
+      
+      <guid>https://blog.lrrc.cc/post/happynewyear/</guid>
+      <description>新年快乐！生日快乐！ 第一篇文章 刚开始用，还不大会用 Markdown 原计划是在一九年最后一天，也就是昨天上线的，结果由于脑子不在线导致没办法上</description>
+    </item>
+    
+  </channel>
+</rss>
