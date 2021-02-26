@@ -1,189 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://blog.lrrc.cc/post/</loc>
+    <loc>https://lrrc.cc/post/</loc>
+    <lastmod>2021-02-22T21:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://lrrc.cc/post/q10steam/</loc>
+    <lastmod>2021-02-22T21:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://lrrc.cc/</loc>
+    <lastmod>2021-02-22T21:31:00+08:00</lastmod>
+  </url><url>
+    <loc>https://lrrc.cc/post/beian/</loc>
     <lastmod>2021-02-21T18:28:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/beian/</loc>
-    <lastmod>2021-02-21T18:28:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/</loc>
-    <lastmod>2021-02-21T18:28:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/q10.fcitx/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/q10.fcitx/</loc>
     <lastmod>2021-02-20T10:20:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/q10-10/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/q10-10/</loc>
     <lastmod>2021-02-20T10:10:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/fcitx/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/fcitx/</loc>
     <lastmod>2020-05-30T15:46:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/fcitx/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/fcitx/</loc>
     <lastmod>2020-05-30T15:46:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/</loc>
     <lastmod>2020-05-30T15:46:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/kdeconnect/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/kdeconnect/</loc>
     <lastmod>2020-05-11T07:28:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/windows/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/windows/</loc>
     <lastmod>2020-05-11T07:28:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/linux/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/linux/</loc>
     <lastmod>2020-03-26T19:54:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/pkg/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/pkg/</loc>
     <lastmod>2020-03-26T19:54:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/other/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/other/</loc>
     <lastmod>2020-02-28T19:29:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/vivaldi/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/vivaldi/</loc>
     <lastmod>2020-02-28T19:29:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/honkaiimpact3rd/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/honkaiimpact3rd/</loc>
     <lastmod>2020-02-27T19:04:54+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/symbol/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/symbol/</loc>
     <lastmod>2020-02-22T20:28:57+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/vim/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/vim/</loc>
     <lastmod>2020-02-22T15:25:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/htop/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/htop/</loc>
     <lastmod>2020-02-22T15:25:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/hugo/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/hugo/</loc>
     <lastmod>2020-02-18T21:01:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/c/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/c/</loc>
     <lastmod>2020-02-18T16:00:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/patch/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/patch/</loc>
     <lastmod>2020-02-18T16:00:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/zsh/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/zsh/</loc>
     <lastmod>2020-02-17T22:52:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/markdown/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/markdown/</loc>
     <lastmod>2020-02-17T21:50:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/markdown/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/markdown/</loc>
     <lastmod>2020-02-17T21:50:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/dwm/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/dwm/</loc>
     <lastmod>2020-02-17T11:05:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/wm/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/wm/</loc>
     <lastmod>2020-02-17T11:05:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/pangu/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/pangu/</loc>
     <lastmod>2020-02-16T19:22:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/ranger/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/ranger/</loc>
     <lastmod>2020-02-14T09:22:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/keynav/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/keynav/</loc>
     <lastmod>2020-02-13T10:15:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/msg/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/msg/</loc>
     <lastmod>2020-02-10T20:48:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/archlinuxs%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5wifi/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/archlinuxs%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E8%BF%9E%E6%8E%A5wifi/</loc>
     <lastmod>2020-02-02T08:18:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/tags/git/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/tags/git/</loc>
     <lastmod>2020-02-01T08:18:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/github%E5%85%8D%E5%AF%86%E4%B8%8A%E4%BC%A0/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/github%E5%85%8D%E5%AF%86%E4%B8%8A%E4%BC%A0/</loc>
     <lastmod>2020-02-01T08:18:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/windowslinux%E5%8F%8C%E7%B3%BB%E7%BB%9F%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/windowslinux%E5%8F%8C%E7%B3%BB%E7%BB%9F%E8%93%9D%E7%89%99%E8%BF%9E%E6%8E%A5/</loc>
     <lastmod>2020-01-01T09:06:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/post/happynewyear/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/post/happynewyear/</loc>
     <lastmod>2020-01-01T08:18:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/about/</loc>
+  </url><url>
+    <loc>https://lrrc.cc/about/</loc>
     <lastmod>2020-01-01T00:25:48+08:00</lastmod>
+  </url><url>
+    <loc>https://lrrc.cc/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://blog.lrrc.cc/categories/</loc>
-  </url>
-  
 </urlset>
